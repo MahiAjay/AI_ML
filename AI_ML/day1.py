@@ -1,4 +1,4 @@
-"""#bracket "<>-NA  []-indexing/subscripting/slicing,list  {}-dict, set  ()-functions arg,expressions, tuple"
+""" #bracket "<>-NA  []-indexing/subscripting/slicing,list  {}-dict, set  ()-functions arg,expressions, tuple"
 #identifiers
 -it must contain alpha numeri only
 -special char not allowed except underscore
@@ -12,6 +12,30 @@
 6. membership: in, not in
 7. Identity: is,is not
 #Data & types
+int
+float
+complex
+str
+list
+tuple
+dict
+set
+bool
+nonetype
+# concept of mutability
+   only works on collections and sequences
+      i. Item Access
+        -Indexing
+        -Sub-scripting
+        -Slicing
+      ii.Item Insertion
+      iii.Item Assignment
+      iv.Item Deletion  
+ mutable (i,ii,iii,iv    -   possible)
+ immutable () 
 # Build-in Functions for data types
 # control statement
-# """
+## conditional
+## looping
+## comprehensions
+# user defined  """
