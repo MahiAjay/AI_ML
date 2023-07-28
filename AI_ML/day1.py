@@ -32,10 +32,12 @@ nonetype
       iii.Item Assignment
       iv.Item Deletion  
  mutable (i,ii,iii,iv    -   possible)
- immutable () 
+ immutable (i,ii - possible             iii,iv - not possible) 
 # Build-in Functions for data types
 # control statement
 ## conditional
 ## looping
 ## comprehensions
-# user defined  """
+# user defined functions
+# function parameterization
+# """
