@@ -40,4 +40,25 @@ nonetype
 ## comprehensions
 # user defined functions
 # function parameterization
-# """
+# lambda expression
+#generators
+#decorators
+#OOP
+#nodules and package
+
+#user confoguration
+#git config --global user.name "yashraj monani"
+#git config --global user.email "yashrajm16802@gmail.com"
+#Remote repository connect
+#git remote add origin "https://github.com/yashmonani/AIDP_pro.git"
+
+
+#daily process
+
+#save and commit all changes
+#git add . -> stage
+#git commit -m "first time commit"
+#to use global -for one github accounts and not use global multiple acc
+#commit-my work has been done
+#push the changes to github
+# git push origin main->origin-thing which is presenmt in server,main->bracnh name(bootton left name)"""
