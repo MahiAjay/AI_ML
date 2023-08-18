@@ -62,3 +62,29 @@ nonetype
 #commit-my work has been done
 #push the changes to github
 # git push origin main->origin-thing which is presenmt in server,main->bracnh name(bootton left name)"""
+# Image Type Conversion
+    # Color Image to Grayscale
+    # to Binary
+# Geometric Transformations
+    # Cropping
+    # Scaling
+    # Rotation
+# Image Arithmetic / Brightness, Contrast Adjustments
+    # Addition
+    # Subraction
+    # Multiplication
+    # Division
+    # Birghtness & Contrast Adjustment
+    # Filteration -> Blurring/Sharpening
+# Morphology
+    # Structuring Element
+    # Dilation
+    # Erosion
+    # Closing
+    # Opening
+    # Removing Small Holes
+    # Removing Small Objects
+    # Region Properties
+# Feature Detection
+    # Feature Detection -> Extraction
+    # Feature Matching
