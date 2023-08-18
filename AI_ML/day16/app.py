@@ -1,5 +1,9 @@
 import tkinter as ttk
 from tkinter import font
+from attendance import attendance
+from registration_face import register
+from clear_data import clear_data
+
 app=ttk.Tk()
 app.geometry('400x400')
 app.title('Attendance System')

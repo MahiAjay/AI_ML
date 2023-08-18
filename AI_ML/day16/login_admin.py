@@ -28,7 +28,7 @@ def submit():
         p=open('pwd').read()
         uname.set('')
         pwd.set('')
-        if userid=='admin' and password==p:
+        if userid=='admin' and password== 'p':
             print('login successful')
             mb.showinfo('Success','login successful')
             from tkinter.simpledialog import askstring
